@@ -1,4 +1,4 @@
-# JWT Service
+# JWT/JWE Service
 
 Routes
 
